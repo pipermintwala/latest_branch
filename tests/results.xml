@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1718436895" />
+    <testcase name="dut_test" classname="dut_test" file="/home/sati/Desktop/verlog/assignment-xor/tests/dut_test.py" lineno="16" time="0.22410225868225098" sim_time_ns="3.001" ratio_time="13.391208181685679" />
+  </testsuite>
+</testsuites>
